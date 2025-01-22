@@ -9,11 +9,11 @@ class Program
 
         if (age >= 18)
         {
-            Console.WriteLine("You are an adult.");
+            Console.WriteLine("MATANDA KA NA.");
         }
         else
         {
-            Console.WriteLine("You are not an adult.");
+            Console.WriteLine("BATA KA PA.");
         }
     }
 }
